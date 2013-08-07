@@ -12,11 +12,11 @@ Then, open in your browser:
 
 	http://localhost:8080
 
-by security socialauth applications don't run in localhost, because the callback URL is not valid by provider (facebook, twitter, etc), change your "/etc/hosts" to route a fake site to your localhost, for example:
+by security socialauth applications don't run in localhost, because the callback URL is not valid to provider (facebook, twitter, etc), change your "/etc/hosts" to route a fake site to your localhost, for example:
 
 	127.0.0.1 localhost example.com
 
-the site "example.com" now appoints to your localhost, run your application and open in your browser:
+the site "example.com" now points to your localhost, run your application and open in your browser:
 
 	http://example.com:8080
 
