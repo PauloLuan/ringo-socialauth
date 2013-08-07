@@ -1,0 +1,8 @@
+{
+    "name": "socialauth",
+    "version": "0.0.1",
+    "description": "Authenticating users through external oAuth providers like Gmail, Hotmail, Yahoo, Twitter, Facebook, LinkedIn, Foursquare, MySpace, Salesforce, Yammer. Using the project (https://code.google.com/p/socialauth/)",
+    "keywords": ["rhino", "ringo", "oauth", "social", "auth", "socialauth"],
+    "author": "Paulo Luan (http://diariodeprogramador.com/) <paulonfsu2@hotmail.com>",
+    "main": "lib/main.js"
+}
